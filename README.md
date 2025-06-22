@@ -26,12 +26,14 @@ To uncover trends and patterns in pizza sales using interactive visualizations a
 
 ### 1. 📆 Daily Trend for Total Orders
 - A bar chart displaying the number of orders for each day of the week.
+- 
   ![image](https://github.com/user-attachments/assets/d8189ba2-a6fc-4aca-8b5e-37733fcd3600)
 
 - **Insight:** Peak sales occur on **Friday**, followed by **Thursday** and **Saturday**.
 
 ### 2. 📈 Monthly Trend for Orders
 - A line chart showing monthly order volume across the year.
+- 
   ![image](https://github.com/user-attachments/assets/e9ad00f8-e73c-4712-891a-d314e4087f0e)
 
 - **Insight:** Highest activity in **May** and **July**, dip in **September** and **October**.
