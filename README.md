@@ -38,18 +38,21 @@ To uncover trends and patterns in pizza sales using interactive visualizations a
 
 ### 3. 🧁 % of Sales by Pizza Category
 - A donut chart showing category-wise sales contribution.
+  
   ![image](https://github.com/user-attachments/assets/04d6ed7b-ea14-4018-b02e-e276750657f9)
 
 - **Top Category:** **Classic** pizza contributes the highest to total sales.
 
 ### 4. 🍕 % of Sales by Pizza Size
 - A donut chart reflecting size-wise sales percentages.
+  
   ![image](https://github.com/user-attachments/assets/3ca05763-d7bc-4612-a48b-8011c71d09a7)
 
 - **Top Size:** **Large (45.89%)**, followed by Medium and Regular.
 
 ### 5. 📦 Total Pizzas Sold by Pizza Category
 - A funnel chart summarizing the total pizzas sold by each category.
+  
   ![image](https://github.com/user-attachments/assets/498ec75a-cebc-4e37-b510-70858adef824)
 
 - **Top 2 Sellers:** Classic (14,888) and Supreme (11,987).
