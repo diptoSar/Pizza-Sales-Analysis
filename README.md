@@ -94,5 +94,4 @@ To uncover trends and patterns in pizza sales using interactive visualizations a
 
 ---
 
-## 📂 Project Structure
 
